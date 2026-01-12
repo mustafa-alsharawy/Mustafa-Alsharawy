@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="[https://i.ibb.co/6fqYzY7/ezgif-47d4e8c70e36dc71.gif](https://github.com/mustafa-alsharawy/Mustafa-Alsharawy/blob/main/ezgif-47d4e8c70e36dc71.gif?raw=true)"/>
+   <img src="https://raw.githubusercontent.com/mustafa-alsharawy/Mustafa-Alsharawy/refs/heads/main/ezgif-47d4e8c70e36dc71.gif"/>
 </p>
 
 <h1 align="center">Hi, I'm Mustafa ☁️</h1>
