@@ -2,11 +2,6 @@
    <img src="https://i.ibb.co/6fqYzY7/ezgif-47d4e8c70e36dc71.gif"/>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/DevOps%20Explorer%20🇪🇬-1E1E2E?style=flat-square&logo=github&logoColor=00C3FF" style="height:32px; object-fit:contain;"/>
-  </a>
-</p>
-
 <h1 align="center">Hi, I'm Mustafa ☁️</h1>
 
 <h2 align="center">DevOps Engineer</h2>
