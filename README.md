@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=Sheen+in+Ops+!" alt="Mustafa Alsharawy" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=Mustafa Alsharawy+!" alt="Mustafa Alsharawy" />
 </p>
 
 <p align="center">
