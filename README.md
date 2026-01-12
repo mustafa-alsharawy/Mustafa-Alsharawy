@@ -50,4 +50,6 @@ teamwork, and adaptability skills.
 ---
 ![](https://github.com/shymaasaeed/shymaasaeed/blob/output/github-contribution-grid-snake-dark.svg)
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mustafa-alsharawy/Mustafa-Alsharawy/refs/heads/main/ezgif-47d4e8c70e36dc71.gif"/>
+</p>
