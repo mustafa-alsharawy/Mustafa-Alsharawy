@@ -58,5 +58,5 @@ teamwork, and adaptability skills.
 
 ---
 <p align="center">
-  <img src="[https://pk.linkedin.com/company/devopsengineers](https://media.licdn.com/dms/image/v2/C4D1BAQGIMaXb4UGOPg/company-background_10000/company-background_10000/0/1650259499937/devopsengineers_cover?e=2147483647&v=beta&t=U1fqXUIFs12iOQs2_wT_b6Or55gq_ftOrBXdAg9mOps)"/>
+  <img src="https://media.licdn.com/dms/image/v2/C4D1BAQGIMaXb4UGOPg/company-background_10000/company-background_10000/0/1650259499937/devopsengineers_cover?e=2147483647&v=beta&t=U1fqXUIFs12iOQs2_wT_b6Or55gq_ftOrBXdAg9mOps"/>
 </p>
