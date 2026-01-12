@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=Mustafa Alsharawy+!" alt="Mustafa Alsharawy" />
+  "Mustafa Alsharawy" />
 </p>
 
 <p align="center">
@@ -58,5 +58,5 @@ teamwork, and adaptability skills.
 
 ---
 <p align="center">
-  <img src="https://pk.linkedin.com/company/devopsengineers"/>
+  <img src="[https://pk.linkedin.com/company/devopsengineers](https://media.licdn.com/dms/image/v2/C4D1BAQGIMaXb4UGOPg/company-background_10000/company-background_10000/0/1650259499937/devopsengineers_cover?e=2147483647&v=beta&t=U1fqXUIFs12iOQs2_wT_b6Or55gq_ftOrBXdAg9mOps)"/>
 </p>
