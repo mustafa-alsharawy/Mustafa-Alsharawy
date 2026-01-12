@@ -3,7 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://gh-most-followed.pages.dev/egypt">
     <img src="https://img.shields.io/badge/DevOps%20Explorer%20🇪🇬-1E1E2E?style=flat-square&logo=github&logoColor=00C3FF" style="height:32px; object-fit:contain;"/>
   </a>
 </p>
