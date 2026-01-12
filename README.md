@@ -31,7 +31,7 @@ teamwork, and adaptability skills.
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:mustafa.m.alsharawy@gmail.com">
+  <a href="mustafa.m.alsharawy@gmail.com">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="45"/>
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/mustafa-alsharawy-b87b3a2a2">
@@ -57,5 +57,5 @@ teamwork, and adaptability skills.
 ![](https://github.com/shymaasaeed/shymaasaeed/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif"/>
+  <img src="https://i.ibb.co/6fqYzY7/ezgif-47d4e8c70e36dc71.gif"/>
 </p>
