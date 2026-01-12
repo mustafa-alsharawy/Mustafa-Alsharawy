@@ -56,7 +56,6 @@ teamwork, and adaptability skills.
 ---
 ![](https://github.com/shymaasaeed/shymaasaeed/blob/output/github-contribution-grid-snake-dark.svg)
 
----
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4D1BAQGIMaXb4UGOPg/company-background_10000/company-background_10000/0/1650259499937/devopsengineers_cover?e=2147483647&v=beta&t=U1fqXUIFs12iOQs2_wT_b6Or55gq_ftOrBXdAg9mOps"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif"/>
 </p>
