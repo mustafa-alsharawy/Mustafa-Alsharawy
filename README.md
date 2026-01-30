@@ -13,7 +13,7 @@ working on real-world automation and cloud deployment projects. Strong problem-s
 teamwork, and adaptability skills.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1CuvbAHx1T33ERbzZAY8t3IiWU-niqo22/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Kby53UI_SZB52mnnlQlBRNOy-tR7rM_9/view?usp=sharing">
     <img src="https://img.shields.io/badge/My%20CV-00796B?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
 </p>
